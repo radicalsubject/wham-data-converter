@@ -1,0 +1,7 @@
+#MINS Umbrella integration
+    x, Coor  y, Free atom
+0  2.018916      0.0   Li
+1  2.606197      0.0   Na
+2  2.906593      0.0    K
+3  3.700006      0.0   Cs
+4  3.249147      0.0   Rb

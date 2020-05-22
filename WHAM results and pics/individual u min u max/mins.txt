@@ -1,0 +1,7 @@
+#WHAM 0 free energy coord, angstrom
+    x, Coor  y, Free atom
+0  2.037667      0.0   Li
+1  2.355833      0.0   Na
+2  2.851333      0.0    K
+3  3.623833      0.0   Cs
+4  3.137500      0.0   Rb
